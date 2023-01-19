@@ -41,3 +41,12 @@ figcaption {
   width: 275px;
   float: right;
 }
+
+.contato__subtitulo {
+  display: inline;
+}
+
+.contato__info {
+  margin: 16px 0 24px;
+  padding-left: 32px;
+}
