@@ -23,6 +23,21 @@ figure {
   padding: 15px;
 }
 
+figure img {
+  width: 100%;
+}
+
 figcaption {
   margin-top: 10px;
+}
+
+.matriz-musicdot {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.familia-tupfeln {
+  width: 275px;
+  float: right;
 }
